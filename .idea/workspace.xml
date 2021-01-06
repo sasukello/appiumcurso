@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0b27f7d-1ee7-46d2-90ee-a5db59eb5ef9" name="Default Changelist" comment="" />
+    <list default="true" id="b0b27f7d-1ee7-46d2-90ee-a5db59eb5ef9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/drivers/DriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/DriverContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/drivers/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestSuites/ExampleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSuites/ExampleDriver.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -44,40 +50,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites/ejerciciosTestNG.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites/ExampleDriver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1221#1222#0" expanded="true" />
-                <element signature="e#1265#1266#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/drivers/DriverContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="109" selection-start-line="9" selection-start-column="109" selection-end-line="9" selection-end-column="109" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#434#435#0" expanded="true" />
                 <element signature="e#470#471#0" expanded="true" />
                 <element signature="e#527#528#0" expanded="true" />
@@ -88,10 +66,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites/ExampleDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="373">
+              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,6 +98,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -121,11 +114,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -198,6 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
@@ -334,34 +329,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 01h 25m 05s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 21m 14s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver - 2021.01.06 at 01h 31m 43s.xml">
-      <configuration name="ExampleDriver" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 08h 50m 01s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 21m 57s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 08h 53m 45s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 26m 58s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 08h 55m 17s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 28m 09s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 09h 08m 36s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 42m 05s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 09h 12m 12s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 43m 29s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 09h 13m 20s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 47m 04s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 09h 27m 46s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 49m 17s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 09h 27m 53s.xml">
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 49m 23s.xml">
+      <configuration name="ExampleDriver.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExampleDriver_test1 - 2021.01.06 at 20h 50m 20s.xml">
       <configuration name="ExampleDriver.test1" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -376,6 +371,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -385,14 +381,14 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7675941" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
@@ -406,6 +402,68 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverContext.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestSuites/ExampleDriver.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverContext.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java</url>
+          <line>17</line>
+          <properties class="drivers.DriverManager" method="iniciarsesion">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -428,37 +486,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="96">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/TestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="1026" selection-start-line="1026" selection-end-line="1026" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#34296#34297#0" expanded="true" />
+            <element signature="e#34331#34332#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites/ExampleDriver.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/SuiteRunnerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#2908#2909#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/internal/MethodRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/SuiteRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="591" selection-start-line="591" selection-end-line="591" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/internal/TestMethodWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/internal/TestInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/drivers/DriverContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="109" selection-start-line="9" selection-start-column="109" selection-end-line="9" selection-end-column="109" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#434#435#0" expanded="true" />
             <element signature="e#470#471#0" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.1.0/e32dae9ce35e13fd7f0fa7efe89f767ac87552a7/testng-7.1.0-sources.jar!/org/testng/internal/ConfigInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="352" selection-start-line="352" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites/ExampleDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/drivers/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

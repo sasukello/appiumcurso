@@ -24,9 +24,9 @@ public class DriverManager {
         }
 
 
-        cap.setCapability("deviceName","nombreDispositivo");
-        cap.setCapability("platformName","SO");
-        cap.setCapability("app","aplicacion");
+        cap.setCapability("deviceName",nombreDispositivo);
+        cap.setCapability("platformName",SO);
+        cap.setCapability("app",aplicacion);
         if(!emulador){
             cap.setCapability("udid","emulator-5554");
         }

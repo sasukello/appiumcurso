@@ -1,21 +1,22 @@
 package drivers;
 
 import io.appium.java_client.AppiumDriver;
+import static drivers.DriverManager.*;
 
 public class DriverContext {
 
-    private static DriverManager driverManager = new DriverManager();
+    private static DriverManager driver = new DriverManager();
 
 
     public static void setUp(String nombreDispositivo, String SO, String aplicacion, String udid, boolean emulador){
-        driverManager.iniciarsesion(nombreDispositivo,SO,aplicacion,udid,emulador);
+        driver.iniciarsesion(nombreDispositivo,SO,aplicacion,udid,emulador);
     }
 
     public static AppiumDriver getDriver(){
-        return driverManager.getDriver();
+        return driver.getDriver();
     }
 
     public static  void  quitDriver(){
-        driverManager.getDriver().quit();
+        driver.getDriver().quit();
     }
 }
